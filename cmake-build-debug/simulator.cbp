@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="simulator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/noa/CLionProjects/simulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/noa/CLionProjects/simulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simulator">
+				<Option output="/home/noa/CLionProjects/simulator/cmake-build-debug/simulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/noa/CLionProjects/simulator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 simulator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simulator/fast">
+				<Option output="/home/noa/CLionProjects/simulator/cmake-build-debug/simulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/noa/CLionProjects/simulator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 simulator/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/noa/CLionProjects/simulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/noa/CLionProjects/simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/noa/CLionProjects/simulator/BigOrEqual.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/BigOrEqual.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Bigger.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Bigger.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/BinaryOperator.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/BinaryOperator.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/ChangeCommand.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Command.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/ConditionParser.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/ConditionParser.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/ConnectCommand.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/DefineVarCommand.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Div.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Div.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Equal.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Equal.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/IfCommand.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/IfCommand.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/InformationVar.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Interpreter.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Interpreter.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/LoopCommand.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/LoopCommand.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Minus.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Minus.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Mul.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Mul.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/OpenServerCommand.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Parser.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Parser.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Plus.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Plus.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Print.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/SimbolTable.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Sleep.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Sleep.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/SmallOrEqual.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/SmallOrEqual.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Smaller.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Smaller.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UMinus.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UMinus.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UPlus.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UPlus.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UnEqual.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UnEqual.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UnaryOperator.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/UnaryOperator.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Value.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Value.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Variable.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/Variable.h">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/main.cpp">
+			<Option target="simulator"/>
+		</Unit>
+		<Unit filename="/home/noa/CLionProjects/simulator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
