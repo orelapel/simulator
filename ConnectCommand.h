@@ -84,6 +84,7 @@ public:
                 if (is_sent == -1) {
                     std::cout << "Error sending message" << std::endl;
                 }
+
                 st->sets.pop();
             }
         }
